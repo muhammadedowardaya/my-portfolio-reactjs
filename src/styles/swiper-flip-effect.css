@@ -1,0 +1,12 @@
+.swiper-button-prev::after,
+.swiper-button-next::after {
+	/* color: rgb(250 204 21); */
+    color:#333;
+    filter: drop-shadow(1px 1px 1px #fff);
+}
+.swiper-pagination > .swiper-pagination-bullet {
+    background-color: #fff;
+}
+.swiper-pagination > .swiper-pagination-bullet-active {
+	background-color: rgb(250 204 21);
+}
